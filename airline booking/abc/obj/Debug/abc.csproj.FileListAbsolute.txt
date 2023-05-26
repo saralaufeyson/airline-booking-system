@@ -1,0 +1,15 @@
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\bin\Debug\abc.exe.config
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\bin\Debug\abc.exe
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\bin\Debug\abc.pdb
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.csproj.AssemblyReference.cache
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.Form1.resources
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.Properties.Resources.resources
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.csproj.GenerateResource.cache
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.csproj.CoreCompileInputs.cache
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.exe
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.pdb
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.login.resources
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.viewf.resources
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.bookt.resources
+C:\Users\LAYASREE\OneDrive\Desktop\c sharp project\abc\obj\Debug\abc.cancelt.resources
