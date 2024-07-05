@@ -13,3 +13,6 @@ Visual Studio Community is a free, full-featured development environment from Mi
 4. **Extensible:** Access a vast ecosystem of extensions to customize your development experience.
 5. **Supports multiple languages:** Code in popular languages like C#, C++, Python, JavaScript, and more.
 
+# Microsoft sql server Management Studio:
+ This is a free graphical tool from Microsoft used to manage and interact with SQL Server databases. It allows you to write queries, create and manage databases, and perform other administrative tasks. 
+
